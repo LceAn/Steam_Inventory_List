@@ -1,0 +1,2 @@
+# Steam_Inventory_List
+用于获取steam用户相关的游戏列表
